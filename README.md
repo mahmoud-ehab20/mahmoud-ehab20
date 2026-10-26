@@ -22,7 +22,7 @@ A cross-platform Flutter app that helps cat owners manage cat profiles, health r
 
 **Stack:** Flutter · Firebase Authentication · Cloud Firestore · Cloudinary · Google Maps
 
-### 📚 [Book Tracker](https://github.com/mahmoud-ehab20/book-tracker)
+### 📚 [Book Tracker](https://book-tracker-sqln.vercel.app)
 
 A full-stack web app for managing personal book collections, with user authentication, a personalized dashboard, and REST API routes secured with JWT.
 
